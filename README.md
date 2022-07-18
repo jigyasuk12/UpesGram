@@ -4,7 +4,7 @@
 
 <b>P.S.</b> This project has been developed for learning purposes, and it has nothing to do with the original Application.
 
-![](https://raw.githubusercontent.com/Subhampreet/Instagram-Clone-ReactJS/main/public/images/screencapture.png)
+![](https://raw.githubusercontent.com/jigyasuk12/UpesGram/main/public/images/screencapture.png)
 
 ### Features : 
 - User Authentication : Sign In and Sign Up
