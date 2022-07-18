@@ -5,7 +5,7 @@
 <b>P.S.</b> This project has been developed for learning purposes, and it has nothing to do with the original Application.
 
 ![](https://raw.githubusercontent.com/jigyasuk12/UpesGram/main/public/images/screencapture.png)
-![login4](https://github.com/https://github.com/jigyasuk12/UpesGram/blob/master/public/images/screencapture.png)
+![login4](https://github.com/jigyasuk12/UpesGram/blob/master/public/images/avatar.jpg)
 
 ### Features : 
 - User Authentication : Sign In and Sign Up
